@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// resulted number is same if we reverse to that number
     int isPalidrome(int num){
         int original = num;
         int reversed = 0;

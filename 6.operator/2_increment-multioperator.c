@@ -3,10 +3,8 @@
 int main() {
 
     int a,b,c,d,e,f;
-
-    printf("Take value from 0 to 255 \n");
     printf("Enter the number 1 = ");
-    scanf("%d",&a);// take value from 0 to 255
+    scanf("%d",&a);
     c=d=e=a;
     f=b;
     printf("Enter the number 2 = ");

@@ -1,7 +1,13 @@
-for link two c file use this step in terminal:
- step1:create the .o file which file we are like to link
+   for link two c file use this step in terminal:
+
+   use the command :
+   gcc file1.c file2.c -o file.exe
+
+   Or
+
+   step1:create the .o file which file we are like to link
     --1. gcc -c (file_name1)
     --2. gcc -c (file_name2)
- step2:make a exe file for run the code 
+   step2:make a exe file for run the code 
     -- gcc -o (give_name) (file_name1.o) (file_name2.o)
- step3:by using ./ run the .exe file which we created
+   step3:by using ./ run the .exe file which we created

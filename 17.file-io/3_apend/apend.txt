@@ -1,0 +1,9 @@
+this is my reading file
+i will read contant of this file using c language
+using the function fscanf
+This is my new content and i want add this content with apend.txt file text
+This is my new content and i want add this content with apend.txt file text
+This is my new content and i want add this content with apend.txt file text
+This is my new content and i want add this content with apend.txt file text.
+.This is my new content and i want add this content with apend.txt file text.
+This is my new content and i want add this content with apend.txt file text.

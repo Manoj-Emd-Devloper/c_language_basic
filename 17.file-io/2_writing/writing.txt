@@ -1,0 +1,1 @@
+This is my new content and i want replace this content with writing.txt file text

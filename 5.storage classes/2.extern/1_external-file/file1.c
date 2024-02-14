@@ -1,0 +1,1 @@
+int a =5;// variable is declare and intiallize to be here

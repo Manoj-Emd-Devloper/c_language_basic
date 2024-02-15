@@ -1,0 +1,6 @@
+for see the output of programs you need to use the window terminal
+
+passing argument by writing:
+    ./filename.exe string
+    
+you can write string with or without space , by double qouta or single qouta

@@ -52,6 +52,7 @@ int main() {
     return 0;
 }
 
+//reverse node 
 struct node *reverse(struct node *head){
     struct node *pre = NULL , *next=NULL;
 
